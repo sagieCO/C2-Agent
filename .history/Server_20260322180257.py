@@ -135,7 +135,7 @@ def handle_request(sock_client, agent_info_json, type_auth, addr_client):
 if __name__ == '__main__':
     init_db() 
     sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-    sock.bind(('0.0.0.0', 22))
+    sock.bind(('0.0.0.0', 123))
     sock.listen(5)
     print("The server is ready for agents")
     

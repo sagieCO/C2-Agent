@@ -6,7 +6,7 @@ import psutil
 import pyautogui
 import io
 import time
-ip_server = '192.168.1.x' 
+ip_server = '127.0.0.1' 
 port_server = 22
 
 def get_process_list():
