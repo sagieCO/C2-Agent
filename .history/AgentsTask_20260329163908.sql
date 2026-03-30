@@ -1,0 +1,6 @@
+CREATE TABLE IF NOT EXISTS agentsTask (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    ip_address TEXT,
+    password_hash TEXT NOT NULL,
+    status TEXT NOT NULL DEFAULT 'OFFLINE'
+);

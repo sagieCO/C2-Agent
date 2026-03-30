@@ -1,0 +1,7 @@
+CREATE TABLE IF NOT EXISTS Tasks (
+    agent_name TEXT NOT NULL,
+    id_task INTEGER PRIMARY KEY AUTOINCREMENT,
+    ip_address TEXT,
+    tasks TEXT NOT NULL,
+    status TEXT NOT NULL DEFAULT 'OFFLINE'
+);
