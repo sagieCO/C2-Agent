@@ -1,0 +1,17 @@
+Proto   Local Address                       Remote Address                      Status         
+------------------------------------------------------------------------------------------
+UDP     0.0.0.0:49950             N/A                       NONE           
+TCP     192.168.1.109:50189       104.199.65.9:443          ESTABLISHED    
+TCP     2a00:a041:e635:e000:9474:618f:26e8:db96:62184 2600:1901:1:7c5:::443     ESTABLISHED    
+TCP     0.0.0.0:5357              N/A                       LISTEN         
+UDP     192.168.1.109:2177        N/A                       NONE           
+UDP     ::1:1900                  N/A                       NONE           
+TCP     ::1:12993                 N/A                       LISTEN         
+UDP     :::500                    N/A                       NONE           
+UDP     :::59625                  N/A                       NONE           
+TCP     0.0.0.0:135               N/A                       LISTEN         
+UDP     0.0.0.0:3702              N/A                       NONE           
+TCP     2a00:a041:e635:e000:9474:618f:26e8:db96:52102 2a04:fa87:fffe::c000:4902:443 TIME_WAIT      
+TCP     127.0.0.1:12993           N/A                       LISTEN         
+UDP     0.0.0.0:5353              N/A                       NONE           
+UDP     192.168.1.109:138         N/A                       NONE           
